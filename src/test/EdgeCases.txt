@@ -1,0 +1,3 @@
+Handle makeSound(0) gracefully without any output.
+Handle makeSound(-1) (should ideally do nothing or print an error message).
+Handle adding animals with empty or null names.

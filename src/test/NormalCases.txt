@@ -1,0 +1,3 @@
+Lion makes a single sound and repeats it three times.
+Elephant makes a single sound and repeats it three times.
+Monkey makes a single sound and repeats it three times.
